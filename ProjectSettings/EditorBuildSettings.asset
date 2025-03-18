@@ -9,8 +9,50 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/HocChu.unity
+    path: Assets/Scenes/Trang1.unity
     guid: a55224f352b86df49a40a5c7bdecbd96
+  - enabled: 1
+    path: Assets/Scenes/Trang2.unity
+    guid: e24d3de55ac276645809c8585a1b2baf
+  - enabled: 1
+    path: Assets/Scenes/Trang3.unity
+    guid: b00705a1358d8f34ca607ef8d3864bd8
+  - enabled: 1
+    path: Assets/Scenes/Trang4.unity
+    guid: daf46b6c5cd7aa34f89b5860896edefd
+  - enabled: 1
+    path: Assets/Scenes/Trang5.unity
+    guid: d777cdc2eab1a4f4a9b9918027138b85
+  - enabled: 1
+    path: Assets/Scenes/Trang6.unity
+    guid: 71835466961e64a4fb1d77b24b01381f
+  - enabled: 1
+    path: Assets/Scenes/Trang7.unity
+    guid: 68be05d775968bd49a2b97fb4ca31281
+  - enabled: 1
+    path: Assets/Scenes/Trang8.unity
+    guid: e6726117c00da4748bf43c20b7c57d1f
+  - enabled: 1
+    path: Assets/Scenes/Trang9.unity
+    guid: 885b7f73702964b499186b387240cff1
+  - enabled: 1
+    path: Assets/Scenes/Trang10.unity
+    guid: b797fd8b3123b064d80642f0f4ce20d1
+  - enabled: 1
+    path: Assets/Scenes/Trang11.unity
+    guid: 0208cfe1418169a4c81e6428ac6547d6
+  - enabled: 1
+    path: Assets/Scenes/Trang12.unity
+    guid: 0dfd95443050b5b4fb7ac31b77d805c3
+  - enabled: 1
+    path: Assets/Scenes/Trang13.unity
+    guid: 76bf9899c2b1a0547b53ee94bcdcbdf2
+  - enabled: 1
+    path: Assets/Scenes/Trang14.unity
+    guid: e23160fc38277344ba909506d0c2c827
+  - enabled: 1
+    path: Assets/Scenes/Trang15.unity
+    guid: e021221bfe1afe94699618c0729041fe
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
