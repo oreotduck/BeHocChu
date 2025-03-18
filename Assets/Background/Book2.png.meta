@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Book2_0
+      name: Boo2_0
       rect:
         serializedVersion: 2
-        x: 86
-        y: 54
-        width: 1102
-        height: 658
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.50000453, y: 0.52328753}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e4ac474b79d27cb00800000000000000
-      internalID: 848697184373492302
+      spriteID: 244420a4b5431ef4fa6ab87d801e2b5b
+      internalID: -1916776270
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dc052a5f1ce8b794291874430dedec63
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boo2_0: -1916776270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
