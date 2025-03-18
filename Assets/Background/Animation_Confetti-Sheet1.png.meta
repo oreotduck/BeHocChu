@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 76f3528ec44181c4890a0b30f04feff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6884926373298463731
+    second: Animation_Confetti-Sheet1_0
+  - first:
+      213: 4760651376705708890
+    second: Animation_Confetti-Sheet1_1
+  - first:
+      213: 7579450378631991936
+    second: Animation_Confetti-Sheet1_2
+  - first:
+      213: -4414432448179528246
+    second: Animation_Confetti-Sheet1_3
+  - first:
+      213: -3312261411563891036
+    second: Animation_Confetti-Sheet1_4
+  - first:
+      213: 860835122473164981
+    second: Animation_Confetti-Sheet1_5
+  - first:
+      213: -3359480939312121736
+    second: Animation_Confetti-Sheet1_6
+  - first:
+      213: -1193696473952287736
+    second: Animation_Confetti-Sheet1_7
+  - first:
+      213: -1012402596261001859
+    second: Animation_Confetti-Sheet1_8
+  - first:
+      213: -5054362346687375813
+    second: Animation_Confetti-Sheet1_9
+  - first:
+      213: -957330090721738115
+    second: Animation_Confetti-Sheet1_10
+  - first:
+      213: 903743178900943216
+    second: Animation_Confetti-Sheet1_11
+  - first:
+      213: 5164323042084822428
+    second: Animation_Confetti-Sheet1_12
+  - first:
+      213: 3518931186673114352
+    second: Animation_Confetti-Sheet1_13
+  - first:
+      213: -6348345443356663275
+    second: Animation_Confetti-Sheet1_14
+  - first:
+      213: -3652493508014938352
+    second: Animation_Confetti-Sheet1_15
+  - first:
+      213: 530631985641288838
+    second: Animation_Confetti-Sheet1_16
+  - first:
+      213: -6043248129277816294
+    second: Animation_Confetti-Sheet1_17
+  - first:
+      213: -8462097500636772542
+    second: Animation_Confetti-Sheet1_18
+  - first:
+      213: -2484941644065137966
+    second: Animation_Confetti-Sheet1_19
+  - first:
+      213: -4024462988153081086
+    second: Animation_Confetti-Sheet1_20
+  - first:
+      213: -7363402852390900272
+    second: Animation_Confetti-Sheet1_21
+  - first:
+      213: 5342947550989363950
+    second: Animation_Confetti-Sheet1_22
+  - first:
+      213: -8441478752654037658
+    second: Animation_Confetti-Sheet1_23
+  - first:
+      213: -5002798266181017565
+    second: Animation_Confetti-Sheet1_24
+  - first:
+      213: -8188758268620937439
+    second: Animation_Confetti-Sheet1_25
+  - first:
+      213: -819378125561496451
+    second: Animation_Confetti-Sheet1_26
+  - first:
+      213: 2298578911608916290
+    second: Animation_Confetti-Sheet1_27
+  - first:
+      213: -8695965313571721006
+    second: Animation_Confetti-Sheet1_28
+  - first:
+      213: -6892562082190878951
+    second: Animation_Confetti-Sheet1_29
+  - first:
+      213: -8177067697367327169
+    second: Animation_Confetti-Sheet1_30
+  - first:
+      213: -3221301580541062141
+    second: Animation_Confetti-Sheet1_31
+  - first:
+      213: -3689949609122294179
+    second: Animation_Confetti-Sheet1_32
+  - first:
+      213: 8964801046665850659
+    second: Animation_Confetti-Sheet1_33
+  - first:
+      213: -126028175148714789
+    second: Animation_Confetti-Sheet1_34
+  - first:
+      213: 4285371558216249331
+    second: Animation_Confetti-Sheet1_35
+  - first:
+      213: -8855834171971762911
+    second: Animation_Confetti-Sheet1_36
+  - first:
+      213: -3943752035257141448
+    second: Animation_Confetti-Sheet1_37
+  - first:
+      213: 8869414928889757539
+    second: Animation_Confetti-Sheet1_38
+  - first:
+      213: 1891659014952722874
+    second: Animation_Confetti-Sheet1_39
+  - first:
+      213: -948657844713492772
+    second: Animation_Confetti-Sheet1_40
+  - first:
+      213: 8176171719943528988
+    second: Animation_Confetti-Sheet1_41
+  - first:
+      213: 1718270407489753477
+    second: Animation_Confetti-Sheet1_42
+  - first:
+      213: -621963578734215817
+    second: Animation_Confetti-Sheet1_43
+  - first:
+      213: 3448888090288788051
+    second: Animation_Confetti-Sheet1_44
+  - first:
+      213: 6382963068326251409
+    second: Animation_Confetti-Sheet1_45
+  - first:
+      213: 2810922324629308164
+    second: Animation_Confetti-Sheet1_46
+  - first:
+      213: -2287246811482408138
+    second: Animation_Confetti-Sheet1_47
+  - first:
+      213: 9081318181090452539
+    second: Animation_Confetti-Sheet1_48
+  - first:
+      213: 2345963209050641661
+    second: Animation_Confetti-Sheet1_49
+  - first:
+      213: -3012959688635350480
+    second: Animation_Confetti-Sheet1_50
+  - first:
+      213: 2172859940375115778
+    second: Animation_Confetti-Sheet1_51
+  - first:
+      213: -5750152338417257344
+    second: Animation_Confetti-Sheet1_52
+  - first:
+      213: -7443905934884658468
+    second: Animation_Confetti-Sheet1_53
+  - first:
+      213: -1539896859893047228
+    second: Animation_Confetti-Sheet1_54
+  - first:
+      213: -5670109216223847160
+    second: Animation_Confetti-Sheet1_55
+  - first:
+      213: 7496499655160729735
+    second: Animation_Confetti-Sheet1_56
+  - first:
+      213: 8078519842367415681
+    second: Animation_Confetti-Sheet1_57
+  - first:
+      213: 8842911596064474392
+    second: Animation_Confetti-Sheet1_58
+  - first:
+      213: 3370726248930511189
+    second: Animation_Confetti-Sheet1_59
+  - first:
+      213: 3967965343260973152
+    second: Animation_Confetti-Sheet1_60
+  - first:
+      213: 5065765747894926094
+    second: Animation_Confetti-Sheet1_61
+  - first:
+      213: -3881989843498417229
+    second: Animation_Confetti-Sheet1_62
+  - first:
+      213: -8488690451099659535
+    second: Animation_Confetti-Sheet1_63
+  - first:
+      213: -5532601034801833913
+    second: Animation_Confetti-Sheet1_64
+  - first:
+      213: 4278005080824375709
+    second: Animation_Confetti-Sheet1_65
+  - first:
+      213: 6159982814386983869
+    second: Animation_Confetti-Sheet1_66
+  - first:
+      213: -7488870046178075936
+    second: Animation_Confetti-Sheet1_67
+  - first:
+      213: -2775197045185848236
+    second: Animation_Confetti-Sheet1_68
+  - first:
+      213: -4553596439729559984
+    second: Animation_Confetti-Sheet1_69
+  - first:
+      213: -1733288559475703003
+    second: Animation_Confetti-Sheet1_70
+  - first:
+      213: -882384583652383698
+    second: Animation_Confetti-Sheet1_71
+  - first:
+      213: 6836035698608630230
+    second: Animation_Confetti-Sheet1_72
+  - first:
+      213: -5789507359904772296
+    second: Animation_Confetti-Sheet1_73
+  - first:
+      213: -967353877758198561
+    second: Animation_Confetti-Sheet1_74
+  - first:
+      213: 6198309555831565198
+    second: Animation_Confetti-Sheet1_75
+  - first:
+      213: 6120603676516688447
+    second: Animation_Confetti-Sheet1_76
+  - first:
+      213: 8577145414739591162
+    second: Animation_Confetti-Sheet1_77
+  - first:
+      213: 6327213984812528707
+    second: Animation_Confetti-Sheet1_78
+  - first:
+      213: 8955575471834935621
+    second: Animation_Confetti-Sheet1_79
+  - first:
+      213: -5807557215109019416
+    second: Animation_Confetti-Sheet1_80
+  - first:
+      213: 3350158167333691402
+    second: Animation_Confetti-Sheet1_81
+  - first:
+      213: -9056170437862704061
+    second: Animation_Confetti-Sheet1_82
+  - first:
+      213: -2021682937419172992
+    second: Animation_Confetti-Sheet1_83
+  - first:
+      213: -8150919126257225669
+    second: Animation_Confetti-Sheet1_84
+  - first:
+      213: 6425813578983074920
+    second: Animation_Confetti-Sheet1_85
+  - first:
+      213: -958667484854387750
+    second: Animation_Confetti-Sheet1_86
+  - first:
+      213: 7427900850103230316
+    second: Animation_Confetti-Sheet1_87
+  - first:
+      213: -6499517252701390133
+    second: Animation_Confetti-Sheet1_88
+  - first:
+      213: -6451309734579994507
+    second: Animation_Confetti-Sheet1_89
+  - first:
+      213: -4392609853667567029
+    second: Animation_Confetti-Sheet1_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466d4471ebaa78419c6805bf79fa6d7
+      internalID: -236193106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2fa6aa7e03b64ea5ac048c14e8c6a
+      internalID: 161433773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_2
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5350dd0ed477544bd632264381e408
+      internalID: 1136551145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_3
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef53f2c7998d6f41a0b4c01656f36ab
+      internalID: 462554519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_4
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefdc429e24872341ae203c0bab15a3a
+      internalID: 751770307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_5
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d00ccce63a38549988e251156b96fb
+      internalID: -618818660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_6
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011dd473942e2d46ad5f521a796a6d7
+      internalID: -8565300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_7
+      rect:
+        serializedVersion: 2
+        x: 7350
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee2774997fc8e4dad41375d46393f2
+      internalID: 1343580166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_8
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f06d7ebe8e3046ac1606f656d7c54
+      internalID: 1415931343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Confetti-Sheet1_9
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 0
+        width: 1050
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a959c98f33b91d41bafdfcbfec80c97
+      internalID: 673735546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e2077bc8e0a9ea4ca8cd1d4944fc16f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Confetti-Sheet1_0: -236193106
+      Animation_Confetti-Sheet1_1: 161433773
+      Animation_Confetti-Sheet1_2: 1136551145
+      Animation_Confetti-Sheet1_3: 462554519
+      Animation_Confetti-Sheet1_4: 751770307
+      Animation_Confetti-Sheet1_5: -618818660
+      Animation_Confetti-Sheet1_6: -8565300
+      Animation_Confetti-Sheet1_7: 1343580166
+      Animation_Confetti-Sheet1_8: 1415931343
+      Animation_Confetti-Sheet1_9: 673735546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
