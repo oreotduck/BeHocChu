@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 78945948}
   - component: {fileID: 78945947}
   - component: {fileID: 78945949}
+  - component: {fileID: 78945950}
   m_Layer: 0
   m_Name: V
   m_TagString: Untagged
@@ -241,6 +242,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &78945950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78945945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 78945945}
+  lowerCaseLetter: {fileID: 2071398319}
+  wordImage: {fileID: 1575736836}
 --- !u!1 &79264259
 GameObject:
   m_ObjectHideFlags: 0
@@ -880,6 +896,7 @@ GameObject:
   - component: {fileID: 1499462836}
   - component: {fileID: 1499462835}
   - component: {fileID: 1499462837}
+  - component: {fileID: 1499462838}
   m_Layer: 0
   m_Name: WordX
   m_TagString: Untagged
@@ -990,6 +1007,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1499462838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499462833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1681402074}
+  lowerCaseLetter: {fileID: 2068880789}
+  wordImage: {fileID: 1499462833}
 --- !u!1 &1575736836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1002,6 +1034,7 @@ GameObject:
   - component: {fileID: 1575736839}
   - component: {fileID: 1575736838}
   - component: {fileID: 1575736840}
+  - component: {fileID: 1575736841}
   m_Layer: 0
   m_Name: WordV
   m_TagString: Untagged
@@ -1112,6 +1145,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1575736841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575736836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 78945945}
+  lowerCaseLetter: {fileID: 2071398319}
+  wordImage: {fileID: 1575736836}
 --- !u!1 &1681402074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1124,6 +1172,7 @@ GameObject:
   - component: {fileID: 1681402077}
   - component: {fileID: 1681402076}
   - component: {fileID: 1681402078}
+  - component: {fileID: 1681402079}
   m_Layer: 0
   m_Name: X
   m_TagString: Untagged
@@ -1234,6 +1283,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1681402079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1681402074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1681402074}
+  lowerCaseLetter: {fileID: 2068880789}
+  wordImage: {fileID: 1499462833}
 --- !u!1001 &1752614301
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1599,6 +1663,7 @@ GameObject:
   - component: {fileID: 2068880792}
   - component: {fileID: 2068880791}
   - component: {fileID: 2068880793}
+  - component: {fileID: 2068880794}
   m_Layer: 0
   m_Name: x
   m_TagString: Untagged
@@ -1709,6 +1774,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2068880794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068880789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1681402074}
+  lowerCaseLetter: {fileID: 2068880789}
+  wordImage: {fileID: 1499462833}
 --- !u!1 &2071398319
 GameObject:
   m_ObjectHideFlags: 0
@@ -1721,6 +1801,7 @@ GameObject:
   - component: {fileID: 2071398322}
   - component: {fileID: 2071398321}
   - component: {fileID: 2071398323}
+  - component: {fileID: 2071398324}
   m_Layer: 0
   m_Name: v
   m_TagString: Untagged
@@ -1831,6 +1912,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2071398324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071398319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 78945945}
+  lowerCaseLetter: {fileID: 2071398319}
+  wordImage: {fileID: 1575736836}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

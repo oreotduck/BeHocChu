@@ -210,6 +210,7 @@ GameObject:
   - component: {fileID: 441135283}
   - component: {fileID: 441135282}
   - component: {fileID: 441135284}
+  - component: {fileID: 441135285}
   m_Layer: 0
   m_Name: Y
   m_TagString: Untagged
@@ -320,6 +321,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &441135285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 441135280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 441135280}
+  lowerCaseLetter: {fileID: 1396220096}
+  wordImage: {fileID: 671048225}
 --- !u!1 &485580777
 GameObject:
   m_ObjectHideFlags: 0
@@ -580,6 +596,7 @@ GameObject:
   - component: {fileID: 671048228}
   - component: {fileID: 671048227}
   - component: {fileID: 671048229}
+  - component: {fileID: 671048230}
   m_Layer: 0
   m_Name: WordY
   m_TagString: Untagged
@@ -690,6 +707,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &671048230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 671048225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 441135280}
+  lowerCaseLetter: {fileID: 1396220096}
+  wordImage: {fileID: 671048225}
 --- !u!1 &957371579
 GameObject:
   m_ObjectHideFlags: 0
@@ -975,6 +1007,7 @@ GameObject:
   - component: {fileID: 1396220099}
   - component: {fileID: 1396220098}
   - component: {fileID: 1396220100}
+  - component: {fileID: 1396220101}
   m_Layer: 0
   m_Name: y
   m_TagString: Untagged
@@ -1085,6 +1118,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1396220101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396220096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 441135280}
+  lowerCaseLetter: {fileID: 1396220096}
+  wordImage: {fileID: 671048225}
 --- !u!1001 &1445239815
 PrefabInstance:
   m_ObjectHideFlags: 0

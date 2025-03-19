@@ -383,6 +383,7 @@ GameObject:
   - component: {fileID: 380605246}
   - component: {fileID: 380605245}
   - component: {fileID: 380605247}
+  - component: {fileID: 380605248}
   m_Layer: 0
   m_Name: o
   m_TagString: Untagged
@@ -493,6 +494,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &380605248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380605243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 941453311}
+  lowerCaseLetter: {fileID: 380605243}
+  wordImage: {fileID: 1119654647}
 --- !u!1 &478747428
 GameObject:
   m_ObjectHideFlags: 0
@@ -597,6 +613,7 @@ GameObject:
   - component: {fileID: 555874227}
   - component: {fileID: 555874226}
   - component: {fileID: 555874228}
+  - component: {fileID: 555874229}
   m_Layer: 0
   m_Name: oo
   m_TagString: Untagged
@@ -707,6 +724,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &555874229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 555874224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1325747939}
+  lowerCaseLetter: {fileID: 555874224}
+  wordImage: {fileID: 2107980877}
 --- !u!1 &941453311
 GameObject:
   m_ObjectHideFlags: 0
@@ -719,6 +751,7 @@ GameObject:
   - component: {fileID: 941453314}
   - component: {fileID: 941453313}
   - component: {fileID: 941453315}
+  - component: {fileID: 941453316}
   m_Layer: 0
   m_Name: O
   m_TagString: Untagged
@@ -829,6 +862,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &941453316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941453311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 941453311}
+  lowerCaseLetter: {fileID: 380605243}
+  wordImage: {fileID: 1119654647}
 --- !u!1 &1119654647
 GameObject:
   m_ObjectHideFlags: 0
@@ -841,6 +889,7 @@ GameObject:
   - component: {fileID: 1119654650}
   - component: {fileID: 1119654649}
   - component: {fileID: 1119654651}
+  - component: {fileID: 1119654652}
   m_Layer: 0
   m_Name: WordO
   m_TagString: Untagged
@@ -951,6 +1000,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1119654652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119654647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 941453311}
+  lowerCaseLetter: {fileID: 380605243}
+  wordImage: {fileID: 1119654647}
 --- !u!1 &1156357246
 GameObject:
   m_ObjectHideFlags: 0
@@ -1184,6 +1248,7 @@ GameObject:
   - component: {fileID: 1325747942}
   - component: {fileID: 1325747941}
   - component: {fileID: 1325747943}
+  - component: {fileID: 1325747944}
   m_Layer: 0
   m_Name: Oo
   m_TagString: Untagged
@@ -1294,6 +1359,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1325747944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325747939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1325747939}
+  lowerCaseLetter: {fileID: 555874224}
+  wordImage: {fileID: 2107980877}
 --- !u!1 &1378389162
 GameObject:
   m_ObjectHideFlags: 0
@@ -1792,6 +1872,7 @@ GameObject:
   - component: {fileID: 2107980880}
   - component: {fileID: 2107980879}
   - component: {fileID: 2107980881}
+  - component: {fileID: 2107980882}
   m_Layer: 0
   m_Name: WordOo
   m_TagString: Untagged
@@ -1902,6 +1983,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2107980882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107980877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4914dc5647fe8549a9cf790fc3fedd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperCaseLetter: {fileID: 1325747939}
+  lowerCaseLetter: {fileID: 555874224}
+  wordImage: {fileID: 2107980877}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
