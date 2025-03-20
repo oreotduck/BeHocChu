@@ -735,7 +735,7 @@ GameObject:
   - component: {fileID: 957371581}
   - component: {fileID: 957371583}
   - component: {fileID: 957371585}
-  - component: {fileID: 957371584}
+  - component: {fileID: 957371586}
   m_Layer: 0
   m_Name: Egg29
   m_TagString: Untagged
@@ -822,24 +822,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &957371584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 957371579}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6e69e30d4d18844dbfa7b44e71454b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eggAnimator: {fileID: 957371583}
-  Egg: {fileID: 957371585}
-  letter: Y
-  letterImage: {fileID: 441135280}
-  tapCount: 0
-  maxTap: 3
 --- !u!61 &957371585
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -886,6 +868,24 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &957371586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 957371579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a875c546ee883b94fa4cbd14de2d5061, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eggAnimator: {fileID: 957371583}
+  Egg: {fileID: 957371585}
+  letter: Y
+  letterImage: {fileID: 441135280}
+  tapCount: 0
+  maxTap: 3
 --- !u!1001 &1184473192
 PrefabInstance:
   m_ObjectHideFlags: 0

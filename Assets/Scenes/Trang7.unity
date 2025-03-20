@@ -1077,6 +1077,7 @@ MonoBehaviour:
   letterImage: {fileID: 1460578414}
   tapCount: 0
   maxTap: 3
+  RightEgg: {fileID: 1963992369}
 --- !u!61 &1161504045
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1500,7 +1501,7 @@ GameObject:
   - component: {fileID: 1963992372}
   - component: {fileID: 1963992371}
   - component: {fileID: 1963992375}
-  - component: {fileID: 1963992374}
+  - component: {fileID: 1963992376}
   m_Layer: 0
   m_Name: Egg14
   m_TagString: Untagged
@@ -1587,24 +1588,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963992369}
   m_CullTransparentMesh: 1
---- !u!114 &1963992374
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1963992369}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6e69e30d4d18844dbfa7b44e71454b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eggAnimator: {fileID: 1963992371}
-  Egg: {fileID: 1963992375}
-  letter: L
-  letterImage: {fileID: 1010156108}
-  tapCount: 0
-  maxTap: 3
 --- !u!61 &1963992375
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1651,6 +1634,24 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1963992376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963992369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a875c546ee883b94fa4cbd14de2d5061, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eggAnimator: {fileID: 1963992371}
+  Egg: {fileID: 1963992375}
+  letter: L
+  letterImage: {fileID: 1010156108}
+  tapCount: 0
+  maxTap: 3
 --- !u!1 &2069192669
 GameObject:
   m_ObjectHideFlags: 0
