@@ -33,6 +33,8 @@ public class DatabaseManager : MonoBehaviour
                     command.ExecuteNonQuery();
                 }
             }
+
+            Debug.Log("URI=file:" + Application.persistentDataPath + "/EggLearning.db");
         }
     }
 
