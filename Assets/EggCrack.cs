@@ -122,4 +122,20 @@ public class EggCrack : MonoBehaviour, IPointerClickHandler
             }
         }
     }
+
+    public static bool IsProgressSaved()
+    {
+        using (var connection = new SQLiteConnection("URI=file:" + Application.persistentDataPath + "/EggLearning.db"))
+        {
+            connection.Open();
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "SELECT COUNT(*) FROM EggStates WHERE IsCracked > 0;";
+                var result = command.ExecuteScalar();
+                int count = result != null ? int.Parse(result.ToString()) : 0;
+                return count > 0;
+            }
+        }
+    }
+
 }

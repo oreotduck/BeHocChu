@@ -42,4 +42,17 @@ public class DatabaseManager : MonoBehaviour
     {
         return System.IO.File.Exists(Application.persistentDataPath + "/EggLearning.db");
     }
+
+    public static void ResetDatabase()
+    {
+        using (var connection = new SQLiteConnection(dbPath))
+        {
+            connection.Open();
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "UPDATE EggStates SET IsCracked = 0;";
+                command.ExecuteNonQuery();
+            }
+        }
+    }
 }
