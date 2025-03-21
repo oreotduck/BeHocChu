@@ -1129,7 +1129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   eggAnimator: {fileID: 1380463317}
   Egg: {fileID: 1380463321}
-  letter: "\xCA"
+  letter: E1
   letterImage: {fileID: 1729606035}
   tapCount: 0
   maxTap: 3

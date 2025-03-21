@@ -1,22 +1,45 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MenuClick : MonoBehaviour
 {
+    public GameObject resumeButton;
     public Animator transition;
 
-    // Update is called once per frame
-    public void StartGame()
+    public void Start()
     {
-        Debug.Log("Start Game!");
+        if (EggCrack.IsDatabaseExist())
+        {
+            resumeButton.gameObject.SetActive(true);
+        }
+        else
+        {
+            resumeButton.gameObject.SetActive(false);
+        }
+    }
+
+    public void OnStartButton()
+    {
+        if(EggCrack.IsDatabaseExist())
+        {
+
+            EggCrack.ResetDatabase();
+        }
+        else
+        {
+            DatabaseManager.CreateDatabase();
+        }
         SceneManager.LoadScene(1);
     }
 
-    public void ExitGame()
+    public void OnResumeButton()
     {
-        Debug.Log("Close Game!");
+        SceneManager.LoadScene(1);
+    }
+
+    public void OnQuitButton()
+    {
         Application.Quit();
-    }  
-    
+    }
 }
