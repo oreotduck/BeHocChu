@@ -641,7 +641,7 @@ GameObject:
   - component: {fileID: 298825479}
   m_Layer: 0
   m_Name: Egg15
-  m_TagString: Untagged
+  m_TagString: Egg
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1779,7 +1779,7 @@ GameObject:
   - component: {fileID: 2134414907}
   m_Layer: 0
   m_Name: Egg16
-  m_TagString: Untagged
+  m_TagString: Egg
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
